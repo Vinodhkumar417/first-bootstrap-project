@@ -1,13 +1,25 @@
 
+  
+  body{
+     padding:0px;
+     margin:0px;
+      
+  }
 
-div{
-  display:inline-block;
-  padding:10px;
-  margin:0px;
+  .bg{
+
+    background:url("images/background.png");
+    background-repeat: repeat;
+    width:100%;
+    padding: 1px;
+    margin:0px;
+  }
+
+ 
+
+* {
+    box-sizing: border-box;
 }
 
-body{
-   padding:0px;
-   margin:0px;
-	background-color:red;
-}
+
+
