@@ -1,25 +1,86 @@
+body{
+  padding:0px;
+  margin:0px;  
+}
 
-  
-  body{
-     padding:0px;
-     margin:0px;
-      
-  }
-
-  .bg{
-
-    background:url("images/background.png");
-    background-repeat: repeat;
-    width:100%;
-    padding: 1px;
-    margin:0px;
-  }
-
- 
+.bg{
+ background:url("images/background.png");
+ background-repeat: repeat;
+ width:100%;
+ padding: 1px;
+ margin:0px;
+}
 
 * {
-    box-sizing: border-box;
+ box-sizing: border-box;
+}
+
+.navbar-inverse{
+
+  margin-top: 0px;
+  border-top-width: 0px;
+  margin-bottom: 0px;
+  border-radius: 0px;
+  border-top: 0.9px solid #9e9301;
+  border-bottom:0.9px solid #9e9301;
+      position: sticky;
+      top: 0;
+      z-index:1000;
+      background:black;
+      background-image:url(images/bg.jpg);
+      background-repeat: repeat;
+
+}
+
+.slide{
+
+  margin-bottom: 0px;
+  top: 0px;
+  margin-top: 0px;
+}
+
+.carousel-caption{
+  padding-bottom: 200px;
+}
+
+p{
+  text-align: left;
+}
+h2,h3{
+  text-align: center;
 }
 
 
 
+.footercolor{
+
+  background:url(images/contactbg.png);
+  width: 100%;
+  color: white;
+}
+
+.textindent{
+
+  text-indent: 5px;
+}
+
+.textcolor{
+  color:white;
+  text-decoration: none;
+}
+
+.textcolor:hover{
+  color:green;
+}
+.mr-3 , .social:hover{
+  color:#f78838;
+}
+
+.fa-angle-right{
+  padding:5px;
+}
+.py-3{
+  background:#eb6c04;
+  font-size: 13px;
+  padding:5px;
+}
