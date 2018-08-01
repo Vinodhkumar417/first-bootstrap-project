@@ -1,0 +1,62 @@
+body{
+  padding:0px;
+  margin:0px;  
+}
+
+.bg{
+ background:url("images/back.png");
+ background-repeat: repeat;
+ width:100%;
+ padding: 1px;
+ margin:0px;
+}
+
+* {
+ box-sizing: border-box;
+}
+
+.navbar-inverse{
+	
+	  margin-bottom: 0px;
+	border-radius: 0px;
+  border-top: 0.9px solid #9e9301;
+  border-bottom:0.9px solid #9e9301;
+      position: sticky;
+      top: 0;
+      z-index:1000;
+      background:black;
+      background-image:url(images/bg.jpg);
+      background-repeat: repeat;
+}
+
+.jam{
+	background:url(images/aboutus2.jpg);
+}
+
+.pro,.ab{
+	color:white;
+
+}
+.fsize , .ab{
+font-size:12px;
+}
+
+.container a{
+	text-decoration:none;
+	color:grey;
+}
+
+.container a:hover{
+	color:white;
+}
+
+
+p{
+	word-spacing:0.5em;
+}
+
+.img{
+width:200px;
+height:200px;
+margin-top:50px;
+}
