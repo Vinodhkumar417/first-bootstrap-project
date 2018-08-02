@@ -40,7 +40,7 @@ body{
 }
 
 .carousel-caption{
-  padding-bottom: 100px;
+  padding-bottom: 120px;
 }
 
 h2,h3{
@@ -102,5 +102,3 @@ text-decoration: none;
 .fa-stack:hover{
   color:#eb6c04;
 }
-
-/* ------------------- end footer --------- */

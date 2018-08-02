@@ -37,7 +37,6 @@ body{
 }
 
 .pro,.ab{
-	
 	color:white;
 
 }
@@ -48,26 +47,14 @@ font-size:12px;
 .col-sm-9{
 word-spacing:3px;	
 }
-.container a{
-	text-decoration:none;
-	color:grey;
+	
+
+
+.para{
+	text-transform:none;
+font-size:14px;
+text-align:justify;	
 }
-
-.container a:hover{
-	color:white;
-}
-
-
-.col-sm-8{
-	word-spacing:0.5em;
-}
-
-.img{
-width:400px;
-height:400px;
-margin-top:10px;
-}
-
 
 
 /* ------ footer --------- */
