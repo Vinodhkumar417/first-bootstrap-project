@@ -41,7 +41,7 @@ body{
 	color:white;
 
 }
-.fsize , .ab{
+ .ab{
 font-size:12px;
 }
 
@@ -58,13 +58,11 @@ word-spacing:3px;
 }
 
 
-.col-sm-8{
-	word-spacing:0.5em;
-}
+
 
 .img{
-width:400px;
-height:400px;
+width:350x;
+height:250px;
 margin-top:10px;
 }
 
