@@ -57,6 +57,23 @@ text-align:justify;
 }
 
 
+.col-sm-3 quick a{
+  color:white;
+}
+
+
+.col-sm-3 quick a:hover{
+
+color:green;
+text-decoration: none;
+
+}
+
+
+
+
+
+
 /* ------ footer --------- */
 
 .footercolor{
